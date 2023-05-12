@@ -21,7 +21,7 @@ Note: The *Title* column in the FAQ table stores the subcategory for each depart
 
 1. **FAQ List Schema** 
 
-![faq schema](./images/ContosoFAQschema.png)
+![faq schema](./images/ContosoFAQSchema.png)
 
 2. **Escalation Questions List Schema** 
 ![escalated questions schema](./images/escquestionsSchema.png)
