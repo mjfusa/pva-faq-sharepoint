@@ -33,8 +33,7 @@ Note: The *Title* column in the FAQ table stores the subcategory for each depart
 
 ### Importing for testing
 
-
-1. Download the Solution zip file from here: 
+1. Download the Solution zip file from here: https://github.com/mjfusa/pva-faq-sharepoint/blob/master/solution/PVA-FAQ-SharePoint.zip
 
 2. Import - Bring the solution into Teams. When importing you'll be prompted to setup a connection to SharePoint and other Microsoft 365 connectors used by the flows.
 See documentation here:  [Import the solution with your bot](https://learn.microsoft.com/en-us/power-virtual-agents/authoring-export-import-bots#import-the-solution-with-your-bot)
