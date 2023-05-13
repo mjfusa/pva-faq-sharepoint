@@ -1,5 +1,9 @@
+This document provides information on how to set up the PVA FAQ solution. PVA FAQ SharePoint is a powerful solution that enables organizations to create and manage frequently asked questions (FAQ) knowledge bases within their SharePoint lists.
+
+With this solution Departments / Teams are empowered to maintain their own FAQ lists. With built-in escalation, teams can quickly respond to their users questions not found in the FAQ.
+
 ## Sharepoint Lists
-This solution references three types of tables. You will need a FAQ list and and Escalation list for each 'department'. See List Types below.
+This solution references three types of tables. You will need a **FAQ list** and and **Escalation list** for each 'department'. See List Types below.
 
 ### List Types
 1. **FAQ List** - This is the main list that question an answer pairs are pulled from. Each department will have it's own list. For example the company 'Contoso' may have an **HR** and **Marketing** department FAQ lists. Naming convention: ```[[Company Name]] FAQ [[Department Name]]```. For Contoso HR, the list name would be: **Contoso FAQ HR**.
